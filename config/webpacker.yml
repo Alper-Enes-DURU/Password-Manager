@@ -1,0 +1,6 @@
+# Inside webpacker.yml, first lines  
+default: &default  
+source_path: app/javascript # Change here  
+
+development:
+  adapter: async
